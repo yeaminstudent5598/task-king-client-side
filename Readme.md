@@ -57,49 +57,7 @@ A **Task Management Application** that allows users to **add, edit, delete, and 
 - **Drag & Drop**: `react-beautiful-dnd` / `@hello-pangea/dnd`
 - **State Management**: `@tanstack/react-query`
 
-**Backend:**
-
-- Node.js + Express.js
-- MongoDB (via `mongodb` package)
-- **Real-time Sync**: WebSockets / Change Streams
-
----
-
-## 📥 Installation
-
-### 🔧 Prerequisites
-
-- Install **Node.js** (>=16)
-- Install **MongoDB** (if running locally)
-- Install **Git**
-
-### 🔹 Clone the Repository
-
-```sh
-git https://github.com/ashraful2871/Task-Management.git
-cd Task-Management
-```
-
-### 📌 Backend Setup
-
-1. **Navigate to the server directory**:
-   ```sh
-   cd server
-   ```
-2. **Install dependencies**:
-   ```sh
-   npm install
-   ```
-3. **Create a `.env` file** and add your MongoDB credentials:
-   ```env
-   USER_DB=your-mongo-db-name
-   USER_PASS=your-mongo-db-password
-   ```
-4. **Start the backend server**:
-   ```sh
-   npm start
-   ```
-   The API should now be running on `http://localhost:5000`.
+.
 
 ### 🎨 Frontend Setup
 
