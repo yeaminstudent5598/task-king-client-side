@@ -43,7 +43,7 @@ A **Task Management Application** that allows users to **add, edit, delete, and 
 
 ## 🎬 Demo
 
-🔗 **Live Demo**: [Task Management App](https://task-mannagement.web.app)
+🔗 **Live Demo**: [Task Management App](https://tasks-king.netlify.app)
 
 ---
 
